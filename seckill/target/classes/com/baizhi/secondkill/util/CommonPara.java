@@ -5,6 +5,7 @@ public enum CommonPara {
     MOBILE_ERROR(500212,"手机号码格式错误"),
     PSSQWORD_ERROR(500213,"登录密码输入错误"),
     LOGINVO_ERROR(500214,"手机号码格式错误"),
+    BIND_ERROR(500215,"绑定异常"),
     ERROR(500,"登陆出现异常");
 
 
